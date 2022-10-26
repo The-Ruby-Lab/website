@@ -1,0 +1,7 @@
+class NlController < ApplicationController
+  def home
+  end
+
+  def legal
+  end
+end
